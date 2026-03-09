@@ -1,0 +1,7 @@
+email="alicia.bacchus32@login.cuny.edu"
+print("Email address:",email[0:31])
+print("User name:",email[0:16])
+print("Company name:"" CUNY")
+print("Email address:", email[:email.find('u')+19].lower())
+print("User name:",email[:email.find("@")].lower())
+print("Company name:", email[email.find("c")+20:].upper())

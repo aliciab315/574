@@ -1,0 +1,11 @@
+greet="welcome to a new semester!"
+print(greet.capitalize())
+first="alicia"
+last=" bacchus"
+name=(first + last)
+print("Name:",(name.title()))
+class1="python\t"
+class2="psychology\t"
+class3="business\t"
+courses=class1+class2+class3
+print("Courses:",(courses.upper()))

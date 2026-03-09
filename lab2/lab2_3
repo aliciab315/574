@@ -1,0 +1,10 @@
+print("python".upper())
+print("Say it ain't so.")
+print("'*'*5+Hotel+'*'*5")
+txt="ET"
+classname="574"
+print(txt + classname)
+n="1234"
+print(n.find('2'))
+num="101"
+print(num[0])
